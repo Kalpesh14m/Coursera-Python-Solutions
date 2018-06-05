@@ -17,9 +17,7 @@
 ==> HyperText
 
 7.What is an important aspect of an Application Layer protocol like HTTP?
-==> What is the IP address for a domain like www.dr-chuck.com?(wrong)
-==> How long do we wait before packets are retransmitted?(wrong)
-==> How long do we wait before packets are retransmitted?(wrong)
+==> Which application talks first? The client or server?
 
 8.What are the three parts of this URL (Uniform Resource Locator)?
 http://www.dr-chuck.com/page1.htm
@@ -34,3 +32,6 @@ http://www.dr-chuck.com/page1.htm
 
 11. In a client-server application on the web using sockets, which must come up first?
 ==> server
+
+12.What do we call it when a browser uses the HTTP protocol to load a file or page from a server and display it in the browser?
+==>The Request/Response Cycle
